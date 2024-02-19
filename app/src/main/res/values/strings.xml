@@ -1,0 +1,410 @@
+<resources>
+    <string name="app_name">Slambook</string>
+    <string name="last_name"><font size="14">Last Name</font></string>
+    <string name="first_name"><font size="14">First Name</font></string>
+    <string name="middle_name"><font size="14">Middle Name</font></string>
+    <string name="middle_optinal">Full Name<font size="14"> (Middle Name is Optional)</font></string>
+
+    <string name="street_name"><font size="14">Street</font></string>
+    <string name="house_num"><font size="14">House Number</font></string>
+
+    <string name="date"><font size="14">Click to Enter Birthday</font></string>
+
+
+    <string-array name="r1prvnc">
+        <item><font color="#FFFFFF">San Rafael</font></item>
+        <item><font color="#FFFFFF">Guguinto</font></item>
+        <item><font color="#FFFFFF">Pangasinan</font></item>
+        <item><font color="#FFFFFF">Baliwag</font></item>
+        <item><font color="#FFFFFF">Sta Maria</font></item>
+        <item><font color="#FFFFFF">Pulilan</font></item>
+        <item><font color="#FFFFFF">Plaridel</font></item>
+        <item><font color="#FFFFFF">Bocaue</font></item>
+        <item><font color="#FFFFFF">Balagtas</font></item>
+        <item><font color="#FFFFFF">Meycauyan</font></item>
+    </string-array>
+
+    <string-array name="r2prvnc">
+        <item><font color="#FFFFFF">Batanes></font></item>
+        <item><font color="#FFFFFF">Cagayan</font></item>
+        <item><font color="#FFFFFF">Isabela</font></item>
+        <item><font color="#FFFFFF">Nueva Vizcaya</font></item>
+        <item><font color="#FFFFFF">Quirino</font></item>
+    </string-array>
+
+    <string-array name="r3prvnc">
+        <item><font color="#FFFFFF">Aurora</font></item>
+        <item><font color="#FFFFFF">Bataan</font></item>
+        <item><font color="#FFFFFF">Bulacan</font></item>
+        <item><font color="#FFFFFF">Nueva Ecija</font></item>
+        <item><font color="#FFFFFF">Pampanga</font></item>
+        <item><font color="#FFFFFF">Tarlac</font></item>
+        <item><font color="#FFFFFF">Zambales</font></item>
+    </string-array>
+
+    <string-array name="r4Aprvnc">
+        <item><font color="#FFFFFF">Cavite</font></item>
+        <item><font color="#FFFFFF">Laguna</font></item>
+        <item><font color="#FFFFFF">Batangas</font></item>
+        <item><font color="#FFFFFF">Rizal</font></item>
+        <item><font color="#FFFFFF">Quezon</font></item>
+    </string-array>
+
+    <string-array name="r4Bprvnc">
+        <item><font color="#FFFFFF">Marinduque</font></item>
+        <item><font color="#FFFFFF">Mindoro Occidental</font></item>
+        <item><font color="#FFFFFF">Mindoro Oriental</font></item>
+        <item><font color="#FFFFFF">Palawan</font></item>
+        <item><font color="#FFFFFF">Romblon</font></item>
+    </string-array>
+
+    <string-array name="r5prvnc">
+        <item><font color="#FFFFFF">Albay</font></item>
+        <item><font color="#FFFFFF">Camarines Norte</font></item>
+        <item><font color="#FFFFFF">Camarines Sur</font></item>
+        <item><font color="#FFFFFF">Catanduanes</font></item>
+        <item><font color="#FFFFFF">Masbate</font></item>
+        <item><font color="#FFFFFF">Sorsogon</font></item>
+    </string-array>
+
+    <string-array name="r6prvnc">
+        <item><font color="#FFFFFF">Aklan</font></item>
+        <item><font color="#FFFFFF">Antique</font></item>
+        <item><font color="#FFFFFF">Capiz</font></item>
+        <item><font color="#FFFFFF">Iloilo</font></item>
+        <item><font color="#FFFFFF">Guimaras</font></item>
+        <item><font color="#FFFFFF">Negros Occidental</font></item>
+    </string-array>
+
+    <string-array name="r7prvnc">
+        <item><font color="#FFFFFF">Bohol</font></item>
+        <item><font color="#FFFFFF">Cebu</font></item>
+        <item><font color="#FFFFFF">Negros Oriental</font></item>
+        <item><font color="#FFFFFF">Siquijor</font></item>
+    </string-array>
+
+    <string-array name="r8prvnc">
+        <item><font color="#FFFFFF">Biliran</font></item>
+        <item><font color="#FFFFFF">Eastern Samar</font></item>
+        <item><font color="#FFFFFF">Leyte </font></item>
+        <item><font color="#FFFFFF">Northern Samar</font></item>
+        <item><font color="#FFFFFF">Samar(Western)</font></item>
+        <item><font color="#FFFFFF">Southern Leyte</font></item>
+    </string-array>
+
+    <string-array name="carprvnc">
+        <item><font color="#FFFFFF">Abra</font></item>
+        <item><font color="#FFFFFF">Apayao</font></item>
+        <item><font color="#FFFFFF">Benguet</font></item>
+        <item><font color="#FFFFFF">Ifugao</font></item>
+        <item><font color="#FFFFFF">Kalinga-Apayao</font></item>
+    </string-array>
+
+    <string-array name="ncrprvnc">
+        <item><font color="#FFFFFF">First District</font></item>
+        <item><font color="#FFFFFF">Second District</font></item>
+        <item><font color="#FFFFFF">Third District</font></item>
+        <item><font color="#FFFFFF">Fourth District</font></item>
+    </string-array>
+
+    <string-array name="NCRcity">
+        <item><font color="#FFFFFF">Caloocan City</font></item>
+        <item><font color="#FFFFFF">Makati City</font></item>
+        <item><font color="#FFFFFF">Malabon City</font></item>
+        <item><font color="#FFFFFF">Mandaluyong City</font></item>
+        <item><font color="#FFFFFF">Manila City</font></item>
+        <item><font color="#FFFFFF">Marikina City</font></item>
+        <item><font color="#FFFFFF">Muntinlupa City</font></item>
+        <item><font color="#FFFFFF">Navotas City</font></item>
+        <item><font color="#FFFFFF">Pasay City</font></item>
+        <item><font color="#FFFFFF">Pasig City</font></item>
+    </string-array>
+
+    <string-array name="province">
+        <item><font color="#FFFFFF">Bulacan</font></item>
+        <item><font color="#FFFFFF">Pampanga</font></item>
+        <item><font color="#FFFFFF">Bataan</font></item>
+        <item><font color="#FFFFFF">Tarlac</font></item>
+        <item><font color="#FFFFFF">Aurora</font></item>
+        <item><font color="#FFFFFF">Batangas</font></item>
+        <item><font color="#FFFFFF">Cavite</font></item>
+        <item><font color="#FFFFFF">Pangasinan</font></item>
+        <item><font color="#FFFFFF">Rizal</font></item>
+        <item><font color="#FFFFFF">Cagayan</font></item>
+    </string-array>
+
+    <string-array name="r2city">
+        <item><font color="#FFFFFF">Basco</font></item>
+        <item><font color="#FFFFFF">Tuguegarao City</font></item>
+        <item><font color="#FFFFFF">Cauayan City</font></item>
+        <item><font color="#FFFFFF">Iligan City</font></item>
+        <item><font color="#FFFFFF">Santiago City</font></item>
+        <item><font color="#FFFFFF">Laoag City</font></item>
+        <item><font color="#FFFFFF">Alaminos City</font></item>
+        <item><font color="#FFFFFF">Dagupan City</font></item>
+        <item><font color="#FFFFFF">San Carlos City</font></item>
+        <item><font color="#FFFFFF">Urdaneta City</font></item>
+    </string-array>
+
+    <string-array name="r3city">
+        <item><font color="#FFFFFF">Baler</font></item>
+        <item><font color="#FFFFFF">City of Balanga</font></item>
+        <item><font color="#FFFFFF">Malolos City</font></item>
+        <item><font color="#FFFFFF">Meycauayan City</font></item>
+        <item><font color="#FFFFFF">San Fernando City</font></item>
+        <item><font color="#FFFFFF">Palayan City</font></item>
+        <item><font color="#FFFFFF">Mabalacat City</font></item>
+        <item><font color="#FFFFFF">Angeles City</font></item>
+        <item><font color="#FFFFFF">Tarlac City</font></item>
+        <item><font color="#FFFFFF">Olongapo City</font></item>
+    </string-array>
+
+    <string-array name="r4Acity">
+        <item><font color="#FFFFFF">Bacoor City</font></item>
+        <item><font color="#FFFFFF">Cavite City</font></item>
+        <item><font color="#FFFFFF">Imus City</font></item>
+        <item><font color="#FFFFFF">Calamba City</font></item>
+        <item><font color="#FFFFFF">San Pablo City</font></item>
+        <item><font color="#FFFFFF">Batangas City</font></item>
+        <item><font color="#FFFFFF">Lipa City</font></item>
+        <item><font color="#FFFFFF">Antipolo City</font></item>
+        <item><font color="#FFFFFF">Lucena City</font></item>
+        <item><font color="#FFFFFF">Tayabas City</font></item>
+    </string-array>
+
+    <string-array name="r4Bcity">
+        <item><font color="#FFFFFF">Boac</font></item>
+        <item><font color="#FFFFFF">Gasan</font></item>
+        <item><font color="#FFFFFF">Mamburao</font></item>
+        <item><font color="#FFFFFF">Lubang</font></item>
+        <item><font color="#FFFFFF">Puerto Prinsesa City</font></item>
+        <item><font color="#FFFFFF">Coron</font></item>
+        <item><font color="#FFFFFF">Alcantara</font></item>
+        <item><font color="#FFFFFF">Banton</font></item>
+        <item><font color="#FFFFFF">Calatrava</font></item>
+        <item><font color="#FFFFFF">Romblon</font></item>
+    </string-array>
+
+    <string-array name="r5city">
+        <item><font color="#FFFFFF">Legazpi City</font></item>
+        <item><font color="#FFFFFF">City of Ligao</font></item>
+        <item><font color="#FFFFFF">City of Tabaco</font></item>
+        <item><font color="#FFFFFF">Daet</font></item>
+        <item><font color="#FFFFFF">Iriga City</font></item>
+        <item><font color="#FFFFFF">Naga City</font></item>
+        <item><font color="#FFFFFF">Virac</font></item>
+        <item><font color="#FFFFFF">Bato</font></item>
+        <item><font color="#FFFFFF">Masbate City</font></item>
+        <item><font color="#FFFFFF">Milagros</font></item>
+    </string-array>
+
+    <string-array name="r6city">
+        <item><font color="#FFFFFF">Kalibo</font></item>
+        <item><font color="#FFFFFF">Madalag</font></item>
+        <item><font color="#FFFFFF">San Jose de Buenavista</font></item>
+        <item><font color="#FFFFFF">San Remigio</font></item>
+        <item><font color="#FFFFFF">Roxas City</font></item>
+        <item><font color="#FFFFFF">Pilar</font></item>
+        <item><font color="#FFFFFF">Iloilo City</font></item>
+        <item><font color="#FFFFFF">Passi City</font></item>
+        <item><font color="#FFFFFF">Jordan</font></item>
+        <item><font color="#FFFFFF">Silay City</font></item>
+    </string-array>
+
+    <string-array name="r7city">
+        <item><font color="#FFFFFF">Tagbilaran</font></item>
+        <item><font color="#FFFFFF">Anda</font></item>
+        <item><font color="#FFFFFF">Cebu City</font></item>
+        <item><font color="#FFFFFF">Lapu-Lapu City</font></item>
+        <item><font color="#FFFFFF">Talisay City</font></item>
+        <item><font color="#FFFFFF">Bais City</font></item>
+        <item><font color="#FFFFFF">Canlaon City</font></item>
+        <item><font color="#FFFFFF">Dumaguete City</font></item>
+        <item><font color="#FFFFFF">Lazi</font></item>
+        <item><font color="#FFFFFF">Siquijor</font></item>
+    </string-array>
+
+    <string-array name="r8city">
+        <item><font color="#FFFFFF">Borongan City</font></item>
+        <item><font color="#FFFFFF">Baybay City</font></item>
+        <item><font color="#FFFFFF">Tacloban City</font></item>
+        <item><font color="#FFFFFF">Catarman</font></item>
+        <item><font color="#FFFFFF">Catubig</font></item>
+        <item><font color="#FFFFFF">Dolores</font></item>
+        <item><font color="#FFFFFF">Calbayog City</font></item>
+        <item><font color="#FFFFFF">Catbalogan City</font></item>
+        <item><font color="#FFFFFF">Maasin City</font></item>
+        <item><font color="#FFFFFF">San Ricardo City</font></item>
+    </string-array>
+
+    <string-array name="carcity">
+        <item><font color="#FFFFFF">Bangued</font></item>
+        <item><font color="#FFFFFF">Boliney</font></item>
+        <item><font color="#FFFFFF">Conner</font></item>
+        <item><font color="#FFFFFF">Kabungao</font></item>
+        <item><font color="#FFFFFF">Baguio City</font></item>
+        <item><font color="#FFFFFF">Bokod</font></item>
+        <item><font color="#FFFFFF">Lagawe</font></item>
+        <item><font color="#FFFFFF">Banaue</font></item>
+        <item><font color="#FFFFFF">Tabuk City</font></item>
+        <item><font color="#FFFFFF">Bontoc</font></item>
+    </string-array>
+
+    <string-array name="ncrbrgy">
+        <item><font color="#FFFFFF">Barangay 1(Caloocan)</font></item>
+        <item><font color="#FFFFFF">Kasilawan</font></item>
+        <item><font color="#FFFFFF">Dampalit</font></item>
+        <item><font color="#FFFFFF">Malamig</font></item>
+        <item><font color="#FFFFFF">Barangay 1(Manila)</font></item>
+        <item><font color="#FFFFFF">Malanday</font></item>
+        <item><font color="#FFFFFF">Alabang</font></item>
+        <item><font color="#FFFFFF">San Roque</font></item>
+        <item><font color="#FFFFFF">Barangay 1(Pasay)</font></item>
+        <item><font color="#FFFFFF">Bambang</font></item>
+    </string-array>
+
+    <string-array name="r1brgy">
+        <item><font color="#FFFFFF">La Paz</font></item>
+        <item><font color="#FFFFFF">Allangigan Primero</font></item>
+        <item><font color="#FFFFFF">Ayusan Norte</font></item>
+        <item><font color="#FFFFFF">Baligat</font></item>
+        <item><font color="#FFFFFF">Barangay No. 30-B, Santa Maria</font></item>
+        <item><font color="#FFFFFF">Bungro</font></item>
+        <item><font color="#FFFFFF">Cabatuan</font></item>
+        <item><font color="#FFFFFF">Caranglaan</font></item>
+        <item><font color="#FFFFFF">Calomboyan</font></item>
+        <item><font color="#FFFFFF">Capataan</font></item>
+    </string-array>
+
+    <string-array name="r2brgy">
+        <item><font color="#FFFFFF">Chanarian</font></item>
+        <item><font color="#FFFFFF">Caritan Centro</font></item>
+        <item><font color="#FFFFFF">San Pablo</font></item>
+        <item><font color="#FFFFFF">Dulag</font></item>
+        <item><font color="#FFFFFF">Del Carmen</font></item>
+        <item><font color="#FFFFFF">Herrero</font></item>
+        <item><font color="#FFFFFF">Lomboy</font></item>
+        <item><font color="#FFFFFF">Malued</font></item>
+        <item><font color="#FFFFFF">Mamalingling</font></item>
+        <item><font color="#FFFFFF">Mayombo</font></item>
+    </string-array>
+
+    <string-array name="r3brgy">
+        <item><font color="#FFFFFF">Calabuanan</font></item>
+        <item><font color="#FFFFFF">Poblacion</font></item>
+        <item><font color="#FFFFFF">Bungahan</font></item>
+        <item><font color="#FFFFFF">Langka</font></item>
+        <item><font color="#FFFFFF">Panipuan</font></item>
+        <item><font color="#FFFFFF">Maligaya</font></item>
+        <item><font color="#FFFFFF">Sapang Balen</font></item>
+        <item><font color="#FFFFFF">San Jose</font></item>
+        <item><font color="#FFFFFF">San Isidro</font></item>
+        <item><font color="#FFFFFF">Santa Rita</font></item>
+    </string-array>
+
+    <string-array name="r4abrgy">
+        <item><font color="#FFFFFF">Alima</font></item>
+        <item><font color="#FFFFFF">Barangay 15 (Kilyawan)</font></item>
+        <item><font color="#FFFFFF">Carsadang Bago I</font></item>
+        <item><font color="#FFFFFF">La Mesa</font></item>
+        <item><font color="#FFFFFF">San Ignacio</font></item>
+        <item><font color="#FFFFFF">Banaba Silangan</font></item>
+        <item><font color="#FFFFFF">San Benito</font></item>
+        <item><font color="#FFFFFF">Muntindilaw</font></item>
+        <item><font color="#FFFFFF">Isabang</font></item>
+        <item><font color="#FFFFFF">wakas</font></item>
+    </string-array>
+
+    <string-array name="r4bbrgy">
+        <item><font color="#FFFFFF">Apitong</font></item>
+        <item><font color="#FFFFFF">Antipolo</font></item>
+        <item><font color="#FFFFFF">Maliig</font></item>
+        <item><font color="#FFFFFF">Milagrosa</font></item>
+        <item><font color="#FFFFFF">Malawig</font></item>
+        <item><font color="#FFFFFF">Polo</font></item>
+        <item><font color="#FFFFFF">Toctoc</font></item>
+        <item><font color="#FFFFFF">Tambac</font></item>
+        <item><font color="#FFFFFF">Talisay</font></item>
+        <item><font color="#FFFFFF">Talabaan</font></item>
+    </string-array>
+
+    <string-array name="r5brgy">
+        <item><font color="#FFFFFF">Ems Barrio</font></item>
+        <item><font color="#FFFFFF">Barayong</font></item>
+        <item><font color="#FFFFFF">Basagan</font></item>
+        <item><font color="#FFFFFF">Bibirao</font></item>
+        <item><font color="#FFFFFF">La Medalla</font></item>
+        <item><font color="#FFFFFF">Lutac</font></item>
+        <item><font color="#FFFFFF">Hawan Ilaya</font></item>
+        <item><font color="#FFFFFF">San Pedro</font></item>
+        <item><font color="#FFFFFF">Sinalongan</font></item>
+        <item><font color="#FFFFFF">Tigbao</font></item>
+    </string-array>
+
+    <string-array name="r6brgy">
+        <item>Andangaw</item>
+        <item>Alaminos</item>
+        <item>Badiang</item>
+        <item>Bagumbayan</item>
+        <item>Cabugao</item>
+        <item>Dayhagan</item>
+        <item>Dulohan</item>
+        <item>Nueva Union</item>
+        <item>Lawi</item>
+        <item>Mambulac</item>
+    </string-array>
+
+    <string-array name="r7brgy">
+        <item>Bool</item>
+        <item>Badiang</item>
+        <item>Carreta</item>
+        <item>Caubian</item>
+        <item>Dumlog</item>
+        <item>Hangyad</item>
+        <item>Lumapao</item>
+        <item>Motong</item>
+        <item>Tignao</item>
+        <item>Tambisan</item>
+    </string-array>
+
+    <string-array name="r8brgy">
+        <item>Alang-alang</item>
+        <item>Balao</item>
+        <item>Calanipawan</item>
+        <item>Daganas</item>
+        <item>Hinagonoyan</item>
+        <item>Libertad</item>
+        <item>Matobato</item>
+        <item>Pangdan</item>
+        <item>Pinaskohan</item>
+        <item>Looc</item>
+    </string-array>
+
+    <string-array name="carbrgy">
+        <item>Agtangao</item>
+        <item>Dumagas</item>
+        <item>Guinamgaman</item>
+        <item>Karagawan</item>
+        <item>Kayang-Hilltop</item>
+        <item>Nawal</item>
+        <item>Montabiong</item>
+        <item>San Fernando</item>
+        <item>San Juan</item>
+        <item>Santa Cruz</item>
+    </string-array>
+
+    <string-array name="securityQuestions">
+        <item><font color="#FFFFFF">What is your nickname?</font></item>
+        <item><font color="#FFFFFF">What time of the day were you born?</font></item>
+        <item><font color="#FFFFFF">What was your childhood hero?</font></item>
+        <item><font color="#FFFFFF">What is favorite color?</font></item>
+        <item><font color="#FFFFFF">What pet do you want to raise?</font></item>
+    </string-array>
+    <string name="title_activity_view_diary">ViewDiaryActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+</resources>
